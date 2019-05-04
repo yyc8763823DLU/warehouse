@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # warehouse
 test
 第一次真正使用GitHub，建了自己的第一个仓库，很开心，上传了自己的桌面壁纸，
@@ -8,3 +9,8 @@ test
 
 ## Updated 2019/4/17 WJH
 Today's selection of beautiful picture, enjoy this!
+=======
+warehouse
+
+test
+>>>>>>> backgrounds
